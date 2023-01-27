@@ -1,0 +1,57 @@
+.fon {
+  background: url(rostov-na-donu.jpg) no-repeat;
+  background-size: 100%;
+}
+
+.fon2 {
+  background: url(afanas2.jpg) no-repeat;
+  background-size: 100%;
+  border: 1px solid rgb(34, 38, 111);
+  width: 250px;
+  height: 250px;
+  border-radius: 10%;
+  opacity: 0.8;
+}
+
+.char1 {
+  color: rgba(16, 1, 29, 0.512);
+}
+
+.char2 {
+  color: rgba(42, 5, 46, 0.704);
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 200;
+  margin: 0px 0px 0px 0px;
+}
+
+.char3 {
+  color: rgba(109, 56, 95, 0.704);
+  font-size: 30px;
+  font-style: unset;
+  font-weight: 100;
+  margin: 10px 0px 0px 0px;
+}
+
+.char4 {
+  color: rgba(9, 1, 15, 0.99);
+  font-size: 30px;
+  font-style: unset;
+  font-weight: 700;
+  margin: 10px 0px 0px 0px;
+}
+
+button {
+  color: rgb(44, 21, 31);
+  background-color: rgba(168, 187, 232, 0.491);
+  font-size: 19pt;
+  display: inline-block;
+  border-radius: 10px;
+  border-bottom: 4px double rgba(1, 14, 18, 0.6);
+  margin-top: 10px;
+  padding: 7px;
+}
+
+button:hover {
+  border: 5px solid rgba(64, 8, 36, 0.491);
+}
